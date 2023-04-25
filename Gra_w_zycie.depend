@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671209617 source:c:\users\37533\desktop\programowanie obiektowe\zaj5\codeblocks\zaj10\main.cpp
+	<iostream>
+	"siatka.h"
+	<time.h>
+
+1671463079 c:\users\37533\desktop\programowanie obiektowe\zaj5\codeblocks\zaj10\siatka.h
+	<iostream>
+	"komorka.h"
+
+1671545834 c:\users\37533\desktop\programowanie obiektowe\zaj5\codeblocks\zaj10\komorka.h
+	<iostream>
+
